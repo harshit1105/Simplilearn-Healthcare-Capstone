@@ -2,7 +2,6 @@
 
 Tableau Dashboard:
 https://public.tableau.com/app/profile/harshit4195/viz/Healthcarecapstonereport/DiabetesAnalysis?publish=yes
-![image](https://user-images.githubusercontent.com/40649678/162118999-f769c51c-d401-450c-85bd-d1523c54f76a.png)
 
 Problem Statement
 NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases) research creates knowledge about and treatments for the most chronic, costly, and consequential diseases.
